@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "lib": ["dom", "es6"],
+    "jsx": "react",
+    "outDir": "dist",
+    "sourceMap": true
+  },
+  "include": ["src/**/*"]
+}
